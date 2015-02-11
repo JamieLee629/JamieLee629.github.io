@@ -12,3 +12,6 @@ ul {
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
 }
+li {
+  margin-bottom: 10px;
+}

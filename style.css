@@ -2,10 +2,17 @@ h1 {
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
 }
+
+h2 {
+  font-family: "Helvetica", "Ariel",sans-serif;
+  font-weight: lighter;
+}
+
 h3 {
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
 }
+
 p {
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
@@ -15,6 +22,7 @@ ul {
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
 }
+
 li {
   margin-bottom: 5px;
 }

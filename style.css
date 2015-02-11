@@ -4,5 +4,11 @@ h1 {
 }
 
 p {
-  font-family: "Helvetica", "Ariel";
+  font-family: "Helvetica", "Ariel",sans-serif;
+  font-weight: lighter;
+}
+
+ul {
+  font-family: "Helvetica", "Ariel",sans-serif;
+  font-weight: lighter;
 }

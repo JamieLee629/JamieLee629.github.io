@@ -1,5 +1,6 @@
 h1 {
-  font-family: "Helvetica", "Ariel";
+  font-family: "Helvetica", "Ariel",sans-serif;
+  font-weight: lighter;
 }
 
 p {

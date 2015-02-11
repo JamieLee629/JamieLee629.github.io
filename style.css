@@ -38,14 +38,16 @@ hr {
 }
 
 a:link {
-  background-color: #333399;
+  text-decoration: none;
+  color: #333399;
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
 }
 
 a:hover {
+  text-decoration: none;
   font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
-  background-color: #CC0099;
+  color: #CC0099;
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
 }

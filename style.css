@@ -4,7 +4,14 @@ h1 {
   font-size: 42;
 }
 
-h2, h3, h4, h5, p, ul {
+h2 {
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 36;
+}
+
+
+h3, h4, h5, p, ul {
   font-family: "Helvetica", "Ariel",sans-serif;
   font-weight: lighter;
 }

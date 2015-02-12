@@ -32,22 +32,52 @@ li {
   margin-bottom: 5px;
 }
 
+div#block1 {
+
+  background-color:#E2C6FF;
+  box-shadow: 10px 10px 5px #977EC9;
+  color: white;
+  margin:10px;
+  padding: 20px;
+  border-radius:5px;
+}
+
+div.button {
+  margin-top: 40px;
+  margin-left:10px;
+}
+
+div.button a:link {
+  box-shadow: 10px 10px 5px #E6AFC4;
+  background-color:#FF80B2;
+  color: white;
+  padding: 10px;
+  border-radius:5px;
+  font-size: 36px;
+  text-decoration: none;
+
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+  border-radius:5px;
+}
+
+div.button a:hover {
+  padding: 10px;
+  border-radius:5px;
+  text-decoration: none;
+  background-color: #FF3083;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+div.button a:visited {
+
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+  border-radius:5px;
+}
+
 hr {
   margin: 0;
   padding: 0;
-}
-
-a:link {
-  text-decoration: none;
-  color: #333399;
-  font-family: "Helvetica", "Ariel",sans-serif;
-  font-weight: lighter;
-}
-
-a:hover {
-  text-decoration: none;
-  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
-  color: #CC0099;
-  font-family: "Helvetica", "Ariel",sans-serif;
-  font-weight: lighter;
 }

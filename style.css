@@ -1,6 +1,10 @@
 html {
   overflow-y: scroll;
+  height: 100%;
+}
 
+body {
+  height: 100%;
 }
 
 h1 {
@@ -44,6 +48,8 @@ div#navigation {
   position: relative;
   top:0px;
   margin-left: 10px;
+  height: 100%;
+
 }
 
 div.content-area {
@@ -63,9 +69,104 @@ div.content-area {
   font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
-div.content-area  p {
+
+div.journaling {
   white-space: normal;
-  word-wrap: break-word;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+
+
+
+  margin-left: 260px;
+  margin-right: 100px;
+
+  padding: 15px;
+  padding-left: 35px;
+
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  top: 15px;
+  font-size: 28px;
+  font-weight: 200;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+div.journaling a {
+     color: #3B3131;
+   text-decoration: none;
+}
+
+div#blog-title {
+  white-space: normal;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+
+  margin-left: 260px;
+  margin-right: 100px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  top: 15px;
+  font-size: 28px;
+  font-weight: 200;
+  color: #3BB9FF;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+#blog-links {
+  white-space: normal;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+
+
+
+  margin-left: 260px;
+  margin-right: 100px;
+
+
+  padding-left: 35px;
+
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  top: 15px;
+  font-size: 28px;
+  font-weight: 200;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+div#back-to-musings {
+  display: flex;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  flex-direction: row;
+  content-justify: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: 260px;
+  margin-right: 100px;
+
+  position: relative;
+  font-size: 36px;
+  font-weight: 100;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+
+  position: relative;
+  text-align: center;
+}
+
+#back-to-musings a {
+   color: #3B3131;
+   text-decoration: none;
+}
+
+#back-to-musings a:hover {
+   color: #F52887;
+   text-decoration: none;
 }
 
 div#resume {

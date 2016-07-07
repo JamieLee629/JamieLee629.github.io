@@ -182,6 +182,53 @@ div#resume {
   font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
+div#resume-print {
+
+  position: relative;
+  top: 5px;
+  margin-bottom: 5px;
+
+  font-weight: 200;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+
+}
+
+div#resume-print hr {
+  margin-top:0px;
+  margin-bottom:0px;
+
+}
+
+div#resume-print h1 {
+  margin-top: -15px;
+  margin-bottom: -15px;
+}
+
+div#resume-print p#contact {
+  text-align: center;
+  font-size:15px;
+  margin-top:20px;
+  margin-bottom: 5px;
+}
+
+div#resume-print h2,h3 {
+  margin-top:5px;
+  margin-bottom:5px;
+
+}
+
+div#resume-print ul {
+  margin-top:10px;
+  margin-bottom:10px;
+
+}
+
+div#resume-print p {
+  margin-top:5px;
+  margin-bottom:5px;
+
+}
+
 div#portfolio {
   display: flex;
   display: -webkit-box;

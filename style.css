@@ -194,14 +194,24 @@ div#resume-print {
 }
 
 div#resume-print hr {
-  margin-top:0px;
-  margin-bottom:0px;
+  margin-top:5px;
+  margin-bottom:5px;
+  font-size:15px;
+
+}
+div#resume-print pre {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+div#resume-print p#br {
+  font-size:15px;
 
 }
 
 div#resume-print h1 {
-  margin-top: -15px;
+  margin-top: -10px;
   margin-bottom: -15px;
+
 }
 
 div#resume-print p#contact {

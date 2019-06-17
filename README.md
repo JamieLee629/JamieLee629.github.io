@@ -1,6 +1,6 @@
 # Jamie Lee
 
-I enjoy building software. I like building android apps.
+I enjoy building software. I like building android apps in particular.
 
 ## School Projects
 

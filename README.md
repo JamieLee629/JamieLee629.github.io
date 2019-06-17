@@ -1,5 +1,7 @@
 # Jamie Lee
 
+Codebase for my website: JamieLee629.github.io
+
 I enjoy building software. I like building android apps in particular.
 
 ## School Projects
